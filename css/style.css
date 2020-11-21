@@ -1,0 +1,31 @@
+body {
+    background: rgb(51, 142, 194);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: rebeccapurple;
+    font-family:fantasy;
+}
+
+h2 {
+    color: rebeccapurple;
+    font-family:fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+footer {
+    margin-bottom: 30px;
+}
+
+.img-padrao {
+    margin-bottom: 20px;
+    width: 300px
+}
